@@ -21,3 +21,7 @@ portcheck 192.168.1.1 22,80 2000
 ```
 go install github.com/clarabennett2626/portcheck@latest
 ```
+
+## License
+
+MIT License
